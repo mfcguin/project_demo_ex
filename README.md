@@ -24,4 +24,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project Description
-Vue项目搭建联系
+Vue项目搭建练习
